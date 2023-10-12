@@ -16,7 +16,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
-- [Contributors](#contributors)
+- [Download YouPremium](#download)
 - [Build Process](#build-process)
 - [Add AdBlock for YouTube](#adblock)
 - [Sponsors](#sponsors-)
