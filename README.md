@@ -1,7 +1,7 @@
 <h1 align="center"> YouPremium </h1> <br>
 <p align="center">
   <a href="https://youpremium.mavenllc.42web.io/">
-    <img alt="logo" title="YouPremium" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="logo" title="YouPremium" src="https://th.bing.com/th/id/OIP.aZm2VnsyW9yfeuVHKxp-kwHaE8?pid=ImgDet&rs=1" width="450">
   </a>
 </p>
 
