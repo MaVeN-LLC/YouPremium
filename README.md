@@ -41,9 +41,9 @@ Feel free to send us feedback on [Twitter](https://twitter.com/maven_llc) or [fi
 
 If there's anything you'd like to chat about, please feel free to join our [Discord](https://dsc.gg/mavenllc)!
 
-## Contributors
+## Download
+- Unavailable right now - [Download](https://l.mavenllc.42web.io/download-youpremium)
 
--
 ## Build Process
 Just a simple extension
 ## AdBlock
