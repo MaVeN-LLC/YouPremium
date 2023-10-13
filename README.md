@@ -42,13 +42,13 @@ Feel free to send us feedback on [Twitter](https://twitter.com/maven_llc) or [fi
 If there's anything you'd like to chat about, please feel free to join our [Discord](https://dsc.gg/mavenllc)!
 
 ## Download
-- Download here - [Download](https://l.mavenllc.42web.io/download-youpremium)
-- to use the extension, Please turn on Developer Mode in your browser and click on "Load packed extension" and upload/choose the youpremium(ver).zip - Chrome, Chromium-based browser.
+- Download here - [Download](https://github.com/MaVeN-LLC/YouPremium/releases)
+- to use the extension, Please turn on Developer Mode in your browser, click on "Load packed extension" and upload/choose the youpremium(ver).zip - Chrome, Chromium-based browser.
 - Opera GX, Opera browsers will be added
 ## Build Process
 Just a simple extension
 Extension requests the YouTube logo from the site and changes it by running a javascript code.
-# WARNING - THIS EXTENSION IS SAFE, AND WILL NOT SLOW YOUR BROWSER. (Look at the code if neededd)
+# WARNING - THIS EXTENSION IS SAFE, AND WILL NOT SLOW YOUR BROWSER. (Look at the code if needed)
 ## AdBlock
 Please download an adblocker to your browser to get the full premium experience.
 - Recommended: Enhancer for YouTube™: [Add to your browser](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)
