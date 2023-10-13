@@ -1,0 +1,16 @@
+{
+    "update_url": "https://github.com/MaVeN-LLC/YouPremium/releases",
+    
+      "manifest_version": 3,
+    
+      "name": "YouPremium - Fake YouTube Premium Logo",
+      "version": "1.0",
+      "description": "Change YouTube's logo to YouTube premium for free. - AdBlock Recommended for pranking (Update 1.0: YouTube URLs Compatibility Fixed, Added support for Microsoft Edge Chromium-Browser: Any Version available.) Go to https://github.com/MaVeN-LLC/YouPremium for updates and m",  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
+    
+      "content_scripts": [{
+        "js": ["js/content.js"],
+        "matches": ["https://www.youtube.com/*","https://m.youtube.com/*","https://youtube.com/*","https://*.youtube.com/*"]
+      }]
+    
+    }
+    
