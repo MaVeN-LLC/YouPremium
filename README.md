@@ -43,7 +43,7 @@ If there's anything you'd like to chat about, please feel free to join our [Disc
 
 ## Download
 - Download here - [Download](https://github.com/MaVeN-LLC/YouPremium/releases)
-- to use the extension, Please turn on Developer Mode in your browser, click on "Load packed extension" and upload/choose the youpremium(ver).zip - Chrome, Chromium-based browser.
+- to use the extension, Unzip the .zip file and then Please turn on Developer Mode in your browser, click on "Load unpacked extension" and upload/choose the youpremium(ver).zip - Chrome, Chromium-based browser.
 - Opera GX, Opera browsers will be added
 ## Build Process
 Just a simple extension
